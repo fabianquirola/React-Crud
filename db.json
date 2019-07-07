@@ -1,0 +1,46 @@
+{
+  "restorant": [
+    {
+      "dishCost": "200",
+      "dishName": "Cheescake",
+      "category": "postre",
+      "id": 1
+    },
+    {
+      "dishCost": "300",
+      "dishName": "Rib Eye 400g",
+      "category": "cortes",
+      "id": 2
+    },
+    {
+      "dishName": "Agua de Jengibre",
+      "dishCost": "100",
+      "category": "bebida",
+      "id": 5
+    },
+    {
+      "dishName": "Tres leches",
+      "dishCost": "220",
+      "category": "postre",
+      "id": 6
+    },
+    {
+      "dishName": "Manzana Verde",
+      "dishCost": "20",
+      "category": "ensalada",
+      "id": 7
+    },
+    {
+      "dishName": "Pan Enrollado",
+      "dishCost": "10",
+      "category": "postre",
+      "id": 8
+    },
+    {
+      "dishName": "Ensalada de Pollo",
+      "dishCost": "100",
+      "category": "ensalada",
+      "id": 9
+    }
+  ]
+}
